@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 {color:#060; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;}
+
+html {
+	background: #ababab;
+	width: 750px;
+	margin: 0 auto;
+	
+}
+
+.container {
+	width: 700px;
+}
+
+body {
+	background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);
+	padding: 10px;	
+	}
+	
+h1,h2,h3 {
+	margin: 0;
+	}
+
+h1 {
+	text-shadow: 1px 1px 2px #999;
+	}
+	
+	
+ul {padding-left:350px;}
+	
+li {float: left; display:block; padding: 5px; background: #ababab; margin-top: 8px; margin-left: 3px; margin-right: 3px;}
+
+a {text-decoration: none; color: #060; }
+
+h2 {font-size: 15px;}
+
