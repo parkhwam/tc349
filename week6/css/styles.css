@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container {
+	margin: 0 auto;
+	width: 800px;}
+
+header {
+	margin 0 auto; 
+	width:800px;}
+
+h1 {color: #fff; text-shadow: #333 0.05em 0.05em 0.05em;}
+
+html {background: #999;}
+
+
+#nav {
+	width: 100%;
+	float: left;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	background-color: #666;
+	border-bottom: 1px solid #999; 
+	border-top: 1px solid #333;}
+	
+#nav li {float: left;}
+	
+#nav li a {
+	display: block;
+	padding: 4px;
+	padding-left: 6px;
+	padding-right: 6px;
+	text-decoration: none;
+	color: #FFF;}
+	
+#sidenav ul {
+	list-style-type: none;
+	}
+	
+aside {float: right; width: 200px;}
+
+section { float:left; width: 600px;}
+
+footer {clear:both; padding-top:20px;}
+
+a { text-decoration:none; color: #fff;}
+
+#nav a:hover {color: #000;}
+
+h2 {color: #CCC;}
+
+
+	
+
+
