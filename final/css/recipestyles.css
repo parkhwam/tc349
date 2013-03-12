@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background: url(../images/bg.png);
+	margin: 0;
+	font-family: "Helvetica", san-serif;
+	line-height: 1.4em;
+}
+
+.container {
+	width: 800px;
+	margin: 0 auto;	
+}
+
+h1,h2,h3 {
+	margin: 0;
+	}
+
+h1 {
+	margin: 20px 0 0 0;
+	color: #fff;
+	height: 110px;
+	text-indent: -9000px; 
+	background: url(../images/logo.png) no-repeat;
+}
+
+h2 {
+	margin-bottom: 10px;
+	}
+
+
+h3 {
+	font-weight: normal;
+	}
+
+hgroup {color: #fff; margin: 0 0 40px 0;}
+
+#recipes {
+	padding:15px;
+	background: #fff;
+	border-top: 10px solid #03F;
+	background: #fff url(../images/yum.png) no-repeat;
+}
+
+article {
+	margin: 250px 0 0 0;
+	}
+
+table,tr,td {
+	border: 1px solid #ccc;
+	border-collapse: collapse;	
+	}
+
+table td {
+	padding: 5px;
+	}
+	
+	aside {
+		position: fixed; 
+			left:0px;
+			 top:10px;
+				 width:150px;
+		
+		}
+		
+		a {text-decoration: none; color: #06F;}
+		
+		img {padding: 5px;}
+		
+		aside ul {list-style: none; line-height: 25px;}
+		
+		
+		#about {margin-top: 150px;}
+		
+		#contact {margin-top: 150px;}
+		
+		#portfolio {
+			margin-top: 150px;
+						
+			
+			}
+	
+	aside a {color: #fff;}
